@@ -19,10 +19,10 @@ main:
       es: Group (ES)
     folder: true
     items:
+    - page_id: _pages/about.html
+      items: 
     - url: https://www.google.com
       label: google
-      items: 
-    - page_id: _pages/about.html
       items: 
     - url: "/test/"
       label_localized:
