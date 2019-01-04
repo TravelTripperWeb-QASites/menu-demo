@@ -1,0 +1,191 @@
+{
+  "name_localized": {
+    "en": "Deluxe Pool View | King",
+    "es": "Deluxe Pool View | King"
+  },
+  "short_description_localized": {
+    "en": "Deluxe Pool View with King Bed",
+    "es": "Deluxe Pool View with King Bed"
+  },
+  "description_localized": {
+    "en": "Little touches often mean the world. Here it’s the calming colors. The smooth textures. The powerful photography. All the amenities you crave including your king-size bed, desk with office chair, mini-fridge, sofa and coffee table for a good rum runner. Of course, if you thirst for more, simply peek out your window and catch the vibrant activity happening in our turquoise pool.",
+    "es": "Little touches often mean the world. Here it’s the calming colors. The smooth textures. The powerful photography. All the amenities you crave including your king-size bed, desk with office chair, mini-fridge, sofa and coffee table for a good rum runner. Of course, if you thirst for more, simply peek out your window and catch the vibrant activity happening in our turquoise pool."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "1 king bed"
+      },
+      {
+        "name": "WIFI available"
+      },
+      {
+        "name": "48-inch HD TV"
+      },
+      {
+        "name": "Alarm Clocks"
+      },
+      {
+        "name": "Hairdryer"
+      },
+      {
+        "name": "Bath Robe"
+      },
+      {
+        "name": "Iron"
+      },
+      {
+        "name": "Coffee Maker"
+      },
+      {
+        "name": "Mini Fridge"
+      },
+      {
+        "name": "Microwave"
+      },
+      {
+        "name": "Large Work Desk"
+      },
+      {
+        "name": "Laptop Safes"
+      }
+    ],
+    "es": [
+      {
+        "name": "1 king bed"
+      },
+      {
+        "name": "WIFI available"
+      },
+      {
+        "name": "48-inch HD TV"
+      },
+      {
+        "name": "Alarm Clocks"
+      },
+      {
+        "name": "Hairdryer"
+      },
+      {
+        "name": "Bath Robe"
+      },
+      {
+        "name": "Iron"
+      },
+      {
+        "name": "Coffee Maker"
+      },
+      {
+        "name": "Mini Fridge"
+      },
+      {
+        "name": "Microwave"
+      },
+      {
+        "name": "Large Work Desk"
+      },
+      {
+        "name": "Laptop Safes"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Deluxe-Pool-View---King-",
+      "content_type": null,
+      "date_added": "2019-01-04-155857",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546635537/wy55ubduvxcii4fjv5ia.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546635537/wy55ubduvxcii4fjv5ia.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546635537/wy55ubduvxcii4fjv5ia.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546635537/wy55ubduvxcii4fjv5ia.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546635537/wy55ubduvxcii4fjv5ia.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546635537/wy55ubduvxcii4fjv5ia.jpg",
+      "resource_type": "image",
+      "size": 74926,
+      "caption": "",
+      "description": "",
+      "alt": ""
+    },
+    {
+      "name": "Deluxe-Pool-View---King-",
+      "content_type": null,
+      "date_added": "2019-01-04-155858",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546635538/ikybecfcfc7nzyyao2ic.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546635538/ikybecfcfc7nzyyao2ic.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546635538/ikybecfcfc7nzyyao2ic.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546635538/ikybecfcfc7nzyyao2ic.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546635538/ikybecfcfc7nzyyao2ic.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546635538/ikybecfcfc7nzyyao2ic.jpg",
+      "resource_type": "image",
+      "size": 58717,
+      "caption": "",
+      "description": "",
+      "alt": ""
+    },
+    {
+      "name": "Deluxe-Pool-View---King-",
+      "content_type": null,
+      "date_added": "2019-01-04-155858",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546635538/pxkpzbqc1samubrvytfl.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546635538/pxkpzbqc1samubrvytfl.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546635538/pxkpzbqc1samubrvytfl.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546635538/pxkpzbqc1samubrvytfl.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546635538/pxkpzbqc1samubrvytfl.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546635538/pxkpzbqc1samubrvytfl.jpg",
+      "resource_type": "image",
+      "size": 88073,
+      "caption": "",
+      "description": "",
+      "alt": ""
+    },
+    {
+      "name": "Deluxe-Pool-View---King-",
+      "content_type": null,
+      "date_added": "2019-01-04-155859",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546635539/tfqlyyei1qzisymgocvv.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546635539/tfqlyyei1qzisymgocvv.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546635539/tfqlyyei1qzisymgocvv.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546635539/tfqlyyei1qzisymgocvv.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546635539/tfqlyyei1qzisymgocvv.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546635539/tfqlyyei1qzisymgocvv.jpg",
+      "resource_type": "image",
+      "size": 84193,
+      "caption": "",
+      "description": "",
+      "alt": ""
+    },
+    {
+      "name": "Deluxe-Pool-View---King-",
+      "content_type": null,
+      "date_added": "2019-01-04-155859",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546635540/gcsfcw78s6zny8rfk001.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546635540/gcsfcw78s6zny8rfk001.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546635540/gcsfcw78s6zny8rfk001.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546635540/gcsfcw78s6zny8rfk001.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546635540/gcsfcw78s6zny8rfk001.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546635540/gcsfcw78s6zny8rfk001.jpg",
+      "resource_type": "image",
+      "size": 44685,
+      "caption": "",
+      "description": "",
+      "alt": ""
+    }
+  ],
+  "reztrip_room_id": "D1KP",
+  "order": 6
+}
