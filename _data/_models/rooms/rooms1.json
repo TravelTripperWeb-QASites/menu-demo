@@ -1,0 +1,16 @@
+{
+  "order": 1,
+  "name_localized": {
+    "en": "Test Import"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": {
+          "en": "Abc"
+        }
+      }
+    ]
+  },
+  "reztrip_room_id": "D1KP"
+}
