@@ -311,8 +311,8 @@ $nav-link-padding-x: 2rem !default;
 
 $subnav-item-padding-y: ($spacer / 2) !default;
 $subnav-item-padding-x: $spacer !default;
-$subnav-item-background: $black;
-$subnav-item-background-hover: $white;
+$subnav-item-background: $navbar-sticky-background;
+$subnav-item-background-hover: $navbar-sticky-background;
 $subnav-item-color: $white;
 $subnav-item-color-hover: $black;
 $subnav-item-decoration: none !default;
