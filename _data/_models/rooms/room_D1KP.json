@@ -107,7 +107,7 @@
       "size": 74926,
       "caption": "",
       "description": "",
-      "alt": ""
+      "alt": "Bedroom with bed and couch overlooking pool"
     },
     {
       "name": "Deluxe-Pool-View---King-",
@@ -126,7 +126,7 @@
       "size": 58717,
       "caption": "",
       "description": "",
-      "alt": ""
+      "alt": "Bathroom with stand up shower"
     },
     {
       "name": "Deluxe-Pool-View---King-",
@@ -145,7 +145,7 @@
       "size": 88073,
       "caption": "",
       "description": "",
-      "alt": ""
+      "alt": "Bedroom overlooking pool"
     },
     {
       "name": "Deluxe-Pool-View---King-",
@@ -164,7 +164,7 @@
       "size": 84193,
       "caption": "",
       "description": "",
-      "alt": ""
+      "alt": "Bedroom with Couch area"
     },
     {
       "name": "Deluxe-Pool-View---King-",
@@ -183,9 +183,10 @@
       "size": 44685,
       "caption": "",
       "description": "",
-      "alt": ""
+      "alt": "Pillow closeup"
     }
   ],
   "reztrip_room_id": "D1KP",
-  "order": 6
+  "order": 6,
+  "room_category": "Junior Suite"
 }
