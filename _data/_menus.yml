@@ -7,12 +7,12 @@ main:
     label_localized:
       en: Home
     items: 
+  - page_id: _pages/about.html
+    items: 
   - page_id: _pages/rooms.html
     label_localized:
       en: Rooms
       es: Habitaciones
-    items: 
-  - page_id: _pages/about.html
     items: 
   - label_localized:
       en: Group
